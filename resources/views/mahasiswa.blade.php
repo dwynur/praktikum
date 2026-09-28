@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hello mahasiswa from laravel 13</h1>
+    <h1>Learn laravel 13</h1>
 </body>
 </html>
